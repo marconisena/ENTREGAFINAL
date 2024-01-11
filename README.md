@@ -20,8 +20,4 @@ Certifique-se de seguir as instruções abaixo para executar o projeto:
 
 API em C#:
 
-Navegue até a pasta api.
-Execute os comandos necessários para configurar o ambiente e instalar as dependências.
-Inicie o servidor da API.
-Interface em React.js ou Next.js:
 
